@@ -1,0 +1,14 @@
+C:\Users\user\CarrinhoDeCompras\bin\Debug\net8.0\CarrinhoDeCompras.exe
+C:\Users\user\CarrinhoDeCompras\bin\Debug\net8.0\CarrinhoDeCompras.deps.json
+C:\Users\user\CarrinhoDeCompras\bin\Debug\net8.0\CarrinhoDeCompras.runtimeconfig.json
+C:\Users\user\CarrinhoDeCompras\bin\Debug\net8.0\CarrinhoDeCompras.dll
+C:\Users\user\CarrinhoDeCompras\bin\Debug\net8.0\CarrinhoDeCompras.pdb
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\CarrinhoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\CarrinhoDeCompras.AssemblyInfoInputs.cache
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\CarrinhoDeCompras.AssemblyInfo.cs
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\CarrinhoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\CarrinhoDeCompras.dll
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\refint\CarrinhoDeCompras.dll
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\CarrinhoDeCompras.pdb
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\CarrinhoDeCompras.genruntimeconfig.cache
+C:\Users\user\CarrinhoDeCompras\obj\Debug\net8.0\ref\CarrinhoDeCompras.dll
